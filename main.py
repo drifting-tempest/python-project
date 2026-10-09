@@ -57,7 +57,7 @@ def display(stk):
             print(stk[x])
 
 
-## postfix to infix 
+## infix to postfix
 
 # finding the priority of an operator
 def preced(op):
